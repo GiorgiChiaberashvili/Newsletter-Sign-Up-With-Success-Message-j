@@ -10,7 +10,7 @@
     }
 
     .img_right {
-        content: url(/assets/images/illustration-sign-up-mobile.svg);
+        content: url(./assets/images/illustration-sign-up-mobile.svg);
     }
 
     h1 {
